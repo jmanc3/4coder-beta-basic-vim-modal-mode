@@ -1,6 +1,6 @@
 # 4coder-beta-basic-vim-modal-mode
 
-This is the most basic implementation of modal editing in 4coder-beta
+This is the most basic implementation of modal editing in 4coder-beta for version 4.1.0
 
 ## Installation
 
